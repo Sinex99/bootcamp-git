@@ -3,6 +3,9 @@ canine
 wolf
 bark
 bow wow
-wuff
 corgi
 sheperd
+pikachu
+charmander
+squirtle
+bulbasaur
